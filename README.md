@@ -1,2 +1,2 @@
-# Papers
-List of papers
+# 以第一作者发表的论文
+专注于持续机器学习，致力于实现AGI。
