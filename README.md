@@ -25,7 +25,7 @@ My research mainly focuses on **Continual Learning**, **Lifelong Learning**, and
 
 | 学位 (Degree) | 论文题目 (Thesis Title) | 毕业院校 | 全文下载 |
 |:---|:---|:---|:-:|
-| **Ph.D. (博士)** | 面向序列任务的持续学习方法研究 | 西南大学 (Southwest University) | [PDF](https://github.com/xionglin92/Papers/blob/main/PhD.pdf) |
+| **Ph.D. (博士)** | 面向序列任务的持续学习方法研究 | 西南大学 | [PDF](https://github.com/xionglin92/Papers/blob/main/PhD.pdf) |
 | **Master (硕士)** | 集成式增量学习分类算法研究 | 重庆师范大学| [PDF](https://github.com/xionglin92/Papers/raw/main/Master.pdf) |
 
 ---
