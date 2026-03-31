@@ -1,6 +1,6 @@
 # 📚 Lin Xiong's Publications (熊霖的学术论文集)
 
-Welcome to my paper repository! This repository contains the full texts (PDFs) of my academic publications and degree theses. 
+This repository contains the full texts (PDFs) of my academic publications and degree theses. 
 
 My research mainly focuses on **Continual Learning**, **Lifelong Learning**, and **Adaptive Intelligence** in dynamic streaming environments. 
 
